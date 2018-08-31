@@ -1,0 +1,453 @@
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none !important;
+}
+
+
+li{
+	list-style-type: none;
+}
+
+ul, p{
+	margin:0 !important;
+	padding: 0;
+}
+
+span, a, p, div{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+.sect_header{
+	margin:0 auto;
+	min-height: 300px;
+	max-width: 1410px;
+	padding:0px 5px;
+}
+
+.logo_text span{
+	color: #858688;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.logo_text .mailspan{
+	color: #5b4295;
+}
+
+.under_logo_lang span.lang_, .under_logo_lang span.lang_ a{
+	color: #959595;
+	font-size: 14px;
+	
+}
+
+ .social_and_copy .span_social, .social_and_copy span a{ 
+	color: #5c5c5c;
+	font-size: 12px;
+}
+
+.under_logo_lang span.lang_ a:hover{
+	font-weight:800;
+	border-bottom: 1px solid #959595;
+}
+
+.social_and_copy span a:hover{
+	font-weight:700;
+	border-bottom: 1px solid #959595;
+}
+
+.copy_date{
+	color: #5c5c5c;
+	font-size: 14px;
+}
+
+.copy_date:hover{
+	font-weight:800;
+	cursor: pointer;
+}
+
+
+.div_ul_menu li:not(:first-child){
+	margin-left: 26px;
+}
+
+.div_ul_menu li a{
+	color: #454545;
+	font-size: 16px;
+}
+
+.login_sign{
+	margin-left: 75px;
+
+}
+
+.login{
+	color: #454545;
+	font-size: 16px;
+	font-weight: 700;
+	cursor: pointer;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.signup_button{
+	color: #FFFF;
+	cursor: pointer;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 16px;
+	height: 40px;
+	width: 94px;
+	background: linear-gradient(to top left, #6379cf, #582c7e);
+	
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 22px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 19px 1px rgba(99, 121, 205, 0.7);
+}
+
+
+
+.sect_secure{
+	min-height: 550px;
+	background:url(img/Back1.jpg);
+	font-size: cover;
+	background-position: center;
+	background-position-y:-340px;
+}
+
+.sec_zag, .sec_based{
+	font-weight: 700;
+	font-size: 60px;
+	color: #454545;
+}
+
+.sec_based{
+	font-size: 36px;
+}
+
+.apple_button, .google_button {
+	background:rgba(124,81,126,0.9);
+	height: 46px;
+	width: 46px;
+	border-radius: 100%;
+	margin-left: 25px;
+	 box-shadow: 0px 4px 19px 1px rgba(99, 121, 205, 0.7);
+}
+
+.create_acc_button{
+	 box-shadow: 0px 4px 19px 1px rgba(99, 121, 205, 0.7);
+	border-radius:30px;
+	font-size:18px;
+	background: linear-gradient(to right, #636b92, #5f2f6a);
+	font-family: 'Titillium Web', sans-serif;
+	color: #FFFF;
+	font-weight: 600;
+	height: 56px;
+	width: 246px
+	
+
+}
+
+.buttons_sec{
+	margin-top: 80px;
+}
+
+.sec_based{
+	margin-top: 20px;
+}
+
+
+.physic_security{
+	overflow: hidden;
+}
+
+.sect_any_dev{
+	background: url(img/Back2.jpg);
+	    background-position-y: 80%;
+	background-size: cover;
+	overflow: hidden;
+}
+
+
+.ultra-lonhorright-line{
+	position: absolute;
+ width: 85%;
+  right: 0;
+ 
+ top: -60px;
+}
+
+.ultra-lonhorleft-line{
+	position: absolute;
+ width: 85%;
+ left: 0;
+ bottom: -85px;
+ 
+
+}
+
+
+.PS_zag_and_text{
+	margin-left: 16%;
+    width: 45%;
+}
+
+.icon_zag{
+	
+}
+
+.icon_zag img{
+	margin-left: -10px;
+}
+
+.icon_zag .first_zag{
+	font-size: 30px;
+	color: #555555;
+
+}
+
+.icon_zag .sec_zag2{
+	color: #959393;
+	font-size: 18px;
+}
+
+.info_about_ps{
+	margin-top: 20px !important;
+	color: #959393;
+	font-size: 14px;
+}
+
+.physic_security{
+	position: relative;
+}
+
+.long_bottom_line{
+	width: 53%;
+	top:14px;
+	left: -15px;
+	position: absolute;
+	
+}
+
+.long_vert_line{
+	width: 1px;
+       height: 88.2%;
+    background: #b9b9b9;
+	position: absolute;
+	left: 62.3%;
+   
+}
+
+.physic_security_dop_info_zag{
+	font-size: 60px;
+	color: #535353;
+}
+
+.physic_security_dop_info_text{
+
+	color: #959393;
+	font-size: 24px;
+	margin-bottom: 0px; 
+}
+
+
+
+.most_secure{
+	color: #f65151;
+}
+
+.lear_more_sec_btn{
+	width: 334px;
+	height: 63px;
+	border: 1px solid #b9b9b9;
+	border-radius:30px;
+	color: #676767;
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+	cursor: pointer;
+	
+    margin-left: 52%;
+    position: relative;
+}
+
+.sponsorse{
+	margin-top: 35px;
+}
+
+.sponsorse_img{
+	width: 50%;
+
+}
+
+.slider_company{
+
+	
+}
+
+.car_ind{
+	margin-left: 0px !important;
+    position: absolute;
+    top: 0px !important;
+    left: 0px !important;
+    height: 77px !important;
+    margin-bottom: 0px !important;
+}
+
+.car_ind li{
+	background-color: #b7b7b7 !important;
+	width: 13px !important;
+	height: 13px !important;
+	border-radius: 100%	;
+	transition:0.2s;
+	cursor: pointer;
+}   
+
+.car_ind li:hover{
+	background-color: #101010 !important;
+}
+
+
+.car_ind li:not(:first-child){
+	margin-top: 10px;
+}
+
+
+.carousel-indicators .active{
+	background-color: #101010 !important;
+}
+
+.text_in_slider{
+	text-align: left;
+	font-size: 20px;
+	line-height: 25px;
+    font-style: italic;
+	color: #101010;
+	 
+	
+}
+
+.caption_sld{
+    padding: 0px 0px !important;
+    
+}
+
+.autor{
+	color: #727272;
+	text-align: left;
+	font-style: italic;
+	font-size: 16px;
+	margin-bottom: 0px !important;
+}
+
+.any_dev_zag, .any_dev_text{
+	text-align: right;
+}
+
+.privacy_zag, .privacy_support, .buttons_up_don{
+	text-align: center;
+}
+
+.any_dev_zag, .privacy_zag{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 36px;
+	color: #535353;
+}
+
+.any_dev_text, .privacy_support{
+	color: #959393;
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.uppg_button{
+	width: 246px;
+	height: 56px;
+	background: linear-gradient(to right, #636b92, #5f2f6a);
+	box-shadow: 0px 4px 33px 4px rgba(99, 121, 205, 1);
+}
+
+.donat_button{
+	width: 166px;
+	height: 56px;
+	background: linear-gradient(to right, #39b6e1, #5e7bea);
+	box-shadow: 0px 4px 33px 4px rgba(123, 207, 203, 1);
+	margin-left: 50px;
+}
+
+.uppg_button, .donat_button{
+	border-radius: 30px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	color: #FFFF;
+}
+
+.help_us{
+	
+}
+
+.helps{
+	width: 85%;
+}
+
+.those_help{
+	color: #7a7a7a;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14px;
+	margin-right: 5.5%;
+	
+}
+
+.section_foot{
+	min-height: 340px;
+	height: 1px;
+	background: #FFFF;
+}
+
+.zag_ul{
+	font-size: 18px;
+	
+}
+
+.comp_ul .pnkt_categ{
+	text-align: right !important;
+}
+
+.general-ul .general-li, .comp_ul .pnkt_categ a{
+	font-size: 14px;
+}
+
+
+.general-ul .general-li, .comp_ul .pnkt_categ a{
+	font-family: 'Titillium Web', sans-serif;
+	color: #5c5c5c;
+	font-weight: 400;
+}
+
+.zag_ul, .general-ul .general-li a{
+	font-family: 'Titillium Web', sans-serif;
+	color: #5c5c5c;
+	font-weight: 700;
+}
+
+
+
+.border-right-f-h{
+	border-right: 1px solid #b9b9b9;
+	    padding-right: 30px;
+}
+
+
+.comp_ul{
+	margin-top: -5px !important;
+}
+
+@media (max-width: 960px){
+	.long_vert_line{
+		display: none;
+	}
+}
